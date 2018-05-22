@@ -1,16 +1,5 @@
-# 0day - Type 3 Attack.
 
-## Legend:
-
-#Type 1: Attack, Zero Day - The Most Crucial Attacking Vector of every Hacker. This doesn't need to be coded within its Deadline.
-#Type 2: Declassified Attack yet Discovered.
-#Type 3: Lower Standard based Attack, Which can be altered to execute a Low End type of Attack with minimum Damage to the entire System.
-
-Each Attack is 5 class - typed based, Which means. Each execute is based on the Type of Attack that was done on the Victim / Defender.
-
-
-
-Buffer Overflow: - Representation of an Overrun Attack;
+Type 3 Attack | Buffer Overflow: - Representation of an Overrun Attack;
 
 Note:
 It was p0sixninja who discovered this Access that is running on all iOS 7.x below iBoot Loaders.
