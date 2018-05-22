@@ -15,10 +15,10 @@ It was p0sixninja who discovered this Access that is running on all iOS 7.x belo
 |                                                                                                |
 |                                                                                                |
 |       [1][1][1][1][1][1][1][1] = 8 Bytes                                                       |
-|       [1][1][1][1][1][1][1][1][1][1] = 10 Bytes    <-----------Data:Payload-----------------   |
+|       [1][1][1][1][1][1][1][1][1][1] = 10 Bytes    <-------------Data:Payload---------------   |
 |                                                                                                |
-|        [If the first 2 Bytes, Consists of anew Payload Arbitrary Code]                         |
-|            [The Contents can then be altered, and inserted anew.]                              |
+|         If the first 2 Bytes, Consists of anew Payload Arbitrary code.                         |
+|             The Contents can then be altered, and inserted anew.                               |
 |                                                                                                |
 |                                                                                                |
 |                                                                                                |
