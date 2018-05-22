@@ -4,8 +4,9 @@ Type 3 Attack | Buffer Overflow: - Representation of an Overrun Attack;
 Note:
 It was p0sixninja who discovered this Access that is running on all iOS 7.x below iBoot Loaders.
 
+
 +================================================================================================+
-|[0][8 Bytes of String or Char Code | Plus 2 new Strings of Code]<-------------------------------|
+|   [8 Bytes of String or Char Code | Plus 2 new Strings of Code]<-------------------------------|
 |                                                                                                |
 |                                                                                                |
 |                                                                                                |
@@ -14,9 +15,9 @@ It was p0sixninja who discovered this Access that is running on all iOS 7.x belo
 |                                                                                                |
 |                                                                                                |
 |       [1][1][1][1][1][1][1][1] = 8 Bytes                                                       |
-|       [1][1][1][1][1][1][1][1][1][1] = 10 Bytes <-----------Data:Payload-----------------      |
+|       [1][1][1][1][1][1][1][1][1][1] = 10 Bytes    <-----------Data:Payload-----------------   |
 |                                                                                                |
-|      [If the first 2 Bytes, Consists of anew Payload Arbitrary Code]                           |
+|        [If the first 2 Bytes, Consists of anew Payload Arbitrary Code]                         |
 |            [The Contents can then be altered, and inserted anew.]                              |
 |                                                                                                |
 |                                                                                                |
