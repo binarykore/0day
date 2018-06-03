@@ -2,7 +2,7 @@
 
 ## Legend:
 
-Type 1: Attack, Zero Day - The Most Crucial Attacking Vector of every Hacker. This doesn't need to be coded within its Deadline.
+Type 1: Attack, Zero Day - The Most Crucial Attacking Vector of every Hacker. This doesn't need to be coded ahead of its Deadline, This attack only exists, if the Loop Hole is still not known to the Vendor or the Coder yet.
 
 Type 2: Declassified Attack yet Discovered.
 
